@@ -8,4 +8,4 @@ M. Nerini, S. Shen, H. Li, and B. Clerckx, "[Beyond Diagonal Reconfigurable Inte
 
 The file `main_Figi.m` reproduces Fig. *i* in the paper, for *i* = 6, 9, 10.
 
-The file `main_Fig7_8.m` reproduces Fig. *7* in the paper when, Fig. *8* when.
+The file `main_Fig7_8.m` reproduces Fig. 7 in the paper with `NT = 2` and Fig. 8 with `NT = 8`.
